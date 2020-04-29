@@ -1,0 +1,1 @@
+C:/inetpub/wwwroot/update.ps1
